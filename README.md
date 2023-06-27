@@ -29,7 +29,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc/SyFy.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
-#EXTINF:-1 tvg-logo="https://telegratis.net/img/syfy.jpeg" group-title="DEPORTES", W PLUS
+#EXTINF:-1 tvg-logo="https://telegratis.net/img/vtvplus.jpeg" group-title="DEPORTES", W PLUS
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
 
 
