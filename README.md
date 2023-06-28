@@ -175,4 +175,16 @@ https://edge-live16-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Cana
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png" group-title="MUSICA", CM
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pakapaka_canal_logo.svg/300px-Pakapaka_canal_logo.svg.png" group-title="INFANTIL", PAKA PAKA
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd
+
+
+
 
