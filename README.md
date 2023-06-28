@@ -1,15 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://telegratis.net/img/espn.jpeg" group-title="sensa",sensa2
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:9a04f07998404286ab92e65be0885f95:edef8ba979d6-4acea3c827dcd51d21ed
 #EXTINF:-1 tvg-logo="https://telegratis.net/img/espn.jpeg" group-title="sensa",sensa
-https://CSC-PTN-EDGE01.sensa.com.ar:443/live/eds/Telefe/live_dash_cld/Telefe.mpd
+https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPNMAS/live_dash_cld/ESPNMAS.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
