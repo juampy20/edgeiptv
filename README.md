@@ -6,7 +6,7 @@
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:edef8ba979d64acea3c827dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:edef8ba979d64acea3c827dcd51d21ed:9a04f079-9840-4286-ab92-e65be0885f95
 #EXTINF:-1 tvg-logo="https://telegratis.net/img/espn.jpeg" group-title="sensa",sensa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPNMAS/live_dash_cld/ESPNMAS.mpd
