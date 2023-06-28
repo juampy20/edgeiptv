@@ -95,7 +95,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/F
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
-#EXTINF:-1 tvg-logo="-" group-title="CULTURA", TV CIUDAD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_teveciudad_m.png" group-title="CULTURA", TV CIUDAD
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
