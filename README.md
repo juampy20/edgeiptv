@@ -51,7 +51,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_e
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
-#EXTINF:-1 tvg-logo="-" group-title="CULTURA", BRAVO TV
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2022/03/621f5ad35437e__236x150.jpg" group-title="CULTURA", BRAVO TV
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd
 
 
@@ -62,7 +62,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
-#EXTINF:-1 tvg-logo="-" group-title="INFANTIL", DREAMWORKS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM-IpCwc3sWA8hx3y-1U7imVu0jl-Xn3Tz5sm9t=s176-c-k-c0x00ffffff-no-rj-mo" group-title="INFANTIL", DREAMWORKS
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd
 
 
@@ -84,7 +84,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boome
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 tvg-logo="-" group-title="MUSICA", FLOW MUSIC
+#EXTINF:-1 tvg-logo="https://i0.wp.com/bahiacesar.com/wp-content/uploads/2019/06/logo_flow_music_xp_con_caja.jpg?resize=350%2C200&ssl=1" group-title="MUSICA", FLOW MUSIC
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
 
 
