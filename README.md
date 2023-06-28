@@ -18,7 +18,7 @@ https://CSC-PTN-EDGE01.sensa.com.ar:443/live/eds/Telefe/live_dash_cld/Telefe.mpd
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:edef8ba979d64acea3c827dcd51d21ed
 #EXTINF:-1 tvg-logo="https://telegratis.net/img/espn.jpeg" group-title="DEPORTES", ESPN
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
