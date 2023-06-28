@@ -77,8 +77,15 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Drea
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd
 
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
+#EXTINF:-1 tvg-logo="-" group-title="MUSICA", FLOW MUSIC
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
 
 
 
