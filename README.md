@@ -7,10 +7,8 @@
 #EXTVLCOPT:http-user-agent="FireFox" 
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:9a04f07998404286ab92e65be0885f95
 #EXTINF:-1 tvg-logo="https://telegratis.net/img/espn.jpeg" group-title="sensa",sensa
-https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
+https://CSC-PTN-EDGE01.sensa.com.ar:443/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
