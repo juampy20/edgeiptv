@@ -8,7 +8,7 @@
 #EXTVLCOPT--http-reconnect=true 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "7e+LqXnWSs6jyCfc1R0h7Q","kid": "s1rsxVS4Wal88RuJJzGvHw"}],"type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "mgTweZhAQoarkuZb4IhflQ","kid": "s1rsxVS4Wal88RuJJzGvHw"}],"type": "temporary"}
 #EXTINF:-1 tvg-logo="https://telegratis.net/img/espn.jpeg" group-title="sensa",sensa
 https://csc-ptn-edge01.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 
