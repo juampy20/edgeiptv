@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://telegratis.net/img/espn.jpeg" group-title="sensa",sensa2
+https://CSC-PTN-EDGE01.sensa.com.ar:443/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
