@@ -124,3 +124,14 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.m
 #EXTINF:-1 tvg-logo="https://www.nationalgeographicla.com/images/logo.png" group-title="DOCUMENTALES", NAT GEO
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
+#EXTINF:-1 tvg-logo="https://www.nationalgeographicla.com/images/logo.png" group-title="DOCUMENTALES", NAT GEO 2
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
+
+
