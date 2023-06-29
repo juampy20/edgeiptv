@@ -301,6 +301,13 @@ https://edge-live16-sl.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.m
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd
 
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/260px-Paramount_Network.svg.png" group-title="CINE", PARAMOUNT
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd
 
