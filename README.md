@@ -237,13 +237,20 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Fo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="URUGUAY", SNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY", SNT
 https://edge-live16-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
 
 
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
+#EXTINF:-1 tvg-logo="https://paraguaype.com/wp-content/uploads/2017/09/Noticias-de-Paraguay-en-vivo.-Canal-NPY-en-vivo.-Noticias-24-Horas.jpg" group-title="PARAGUAY", NOTICIAS
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd
 
 
 
