@@ -290,7 +290,15 @@ https://edge-live16-sl.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.m
 
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+#EXTINF:-1 tvg-logo="https://laguia.tv/_nuxt/img/UniversalChannel_256.ea0c20f.png" group-title="CINE", UNIVERSAL
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd
 
 
 
