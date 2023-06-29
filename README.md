@@ -265,8 +265,15 @@ https://edge-live16-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/
 https://edge-live16-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
 
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", LA TELE
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
 
 
 
