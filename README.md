@@ -356,3 +356,20 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Ca
 #KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_400x400.jpg" group-title="ENTRETENIMIENTO", EL GARAGE TV
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/928235234625228801/PrGLNPSS_400x400.jpg" group-title="ENTRETENIMIENTO", TELEMAX
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd
+
+
+
+
+
+
