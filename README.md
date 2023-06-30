@@ -426,6 +426,13 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encue
 https://edge-live16-sl.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd
 
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_12/large.646812948_TelefeSalta.png.008752d979b78ef73506a055a0fc89f3.png" group-title="INTERIOR", TELEFE SALTA
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd
 
