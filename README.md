@@ -451,6 +451,13 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Na
 
 
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cronica_m.png" group-title="NOTICIAS", CRONICA TV
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
 
