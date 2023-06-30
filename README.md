@@ -563,7 +563,6 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
 
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -573,5 +572,17 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2013/06/ESPN3_CLR_Pos-642x405.jpg" group-title="DEPORTES", ESPN 3 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ad99f6512d50476639052a8fe8a4676:5ff3bee4cff05d3400d7ea60fcc93235
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-DCA298CCF8-seeklogo.com.png" group-title="DEPORTES", FOX SPORTS 
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+
 
 
