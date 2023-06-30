@@ -391,6 +391,13 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="INTERIOR", CANAL 8 TUCUMAN
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd
 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+#EXTINF:-1 tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG27651.jpg" group-title="ENTRETENIMIENTO", MAGAZINE
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd
 
