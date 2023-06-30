@@ -415,7 +415,15 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encue
 
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55828b728b8affe6d1d57d050025645d:8ac11ed6d0ccaeac3f8218419f65bb94
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_08/228336288_CanalSieteTelefe.thumb.png.8adfb263abce41161648946b649d9296.png" group-title="INTERIOR", TELEFE NEUQUEN
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd
 
 
 
