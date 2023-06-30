@@ -529,7 +529,6 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/Telefe
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
@@ -539,5 +538,19 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/Ameri
 #KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e3/DisneyChannel_logo.png/revision/latest?cb=20151121052638&path-prefix=es" group-title="INFANTIL", DISNEY CHANNEL
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_metro_m.png" group-title="ENTRETENIMIENTO", METRO
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
+
+
+
 
 
