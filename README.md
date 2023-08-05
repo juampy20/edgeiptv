@@ -890,3 +890,15 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_M
 #EXTINF:-1 tvg-logo="-" group-title="Variedades", Hola Tv
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
+#EXTINF:-1 tvg-logo="-" group-title="Musica", MTV Hits
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
+
+
+
