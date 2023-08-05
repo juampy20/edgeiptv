@@ -678,3 +678,45 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/
 #EXTINF:-1 tvg-logo="-" group-title="Noticias", TN Noticias
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
+#EXTINF:-1 tvg-logo="-" group-title="Variedades", Argentinisima
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
+#EXTINF:-1 tvg-logo="-" group-title="Regionales", Canal 5 Rosario
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
+#EXTINF:-1 tvg-logo="-" group-title="Regionales", Canal 8 Cordoba
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
+#EXTINF:-1 tvg-logo="-" group-title="Variedades", Diputados Tv
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd
+
+
