@@ -780,4 +780,27 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.m
 #EXTINF:-1 tvg-logo="-" group-title="CINE", A3 Cine
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
+#EXTINF:-1 tvg-logo="-" group-title="Ciencia y Cultura", Discovery Theater
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f812ef81d6ce425a8db4012a1ef8b0c1:5c2b9791b1074727eb349588e32bdc0a
+#EXTINF:-1 tvg-logo="-" group-title="Variedades", Glitz
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Glitz/SA_Live_dash_enc/Glitz.mpd
+
+
+
+
 
