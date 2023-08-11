@@ -1036,3 +1036,25 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena
 #KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
 #EXTINF:-1 tvg-logo="-" group-title="-", playboy
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868
+#EXTINF:-1 tvg-logo="-" group-title="-", fox news
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
+#EXTINF:-1 tvg-logo="-" group-title="-", tv chile
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd
+
+
