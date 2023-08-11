@@ -901,4 +901,35 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+#EXTINF:-1 tvg-logo="-" group-title="-", telefuturo
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
+#EXTINF:-1 tvg-logo="-" group-title="-", mtv
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
+#EXTINF:-1 tvg-logo="-" group-title="-", nik jr
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd
+
 
