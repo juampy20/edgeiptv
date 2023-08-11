@@ -1126,3 +1126,25 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/Warner
 #KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
 #EXTINF:-1 tvg-logo="-" group-title="-", sun chanel
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
+#EXTINF:-1 tvg-logo="-" group-title="-", cinecanal
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
+#EXTINF:-1 tvg-logo="-" group-title="-",amc
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
+
+
