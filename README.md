@@ -1016,3 +1016,23 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifeti
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
 #EXTINF:-1 tvg-logo="-" group-title="-", space
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
+#EXTINF:-1 tvg-logo="-" group-title="-", antena 3
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
+#EXTINF:-1 tvg-logo="-" group-title="-", playboy
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
